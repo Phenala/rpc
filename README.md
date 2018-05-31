@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Procedure Call Implementation in Python
 ---------------------------------------------------------------------------
 
@@ -23,7 +22,3 @@ The shared memory folder contatins the shm_server_me.c and shm_client_me.c files
 Message Passing Implementation in C
 ----------------------------------------------------------------------------
 The message passing folder contains the messagePass.c file, which passes a <i>Hello</i> string from one process to another.
-
-=======
-# rpc
->>>>>>> 12db259725243e67396926a819aab8d97d9399aa
